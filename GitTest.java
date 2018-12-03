@@ -7,6 +7,9 @@ public class GitTest{
 	public GitTest(){
 		value = "This is my GitHub test";
 	}
+	public void setString(String value){
+		this.value = value;
+	}
 	public String toString(){
 		return value;
 	}
