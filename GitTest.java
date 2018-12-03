@@ -1,3 +1,4 @@
+//Adam
 public class GitTest{
 	private String value;
 
